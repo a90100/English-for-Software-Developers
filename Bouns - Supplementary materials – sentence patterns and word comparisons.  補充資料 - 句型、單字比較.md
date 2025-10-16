@@ -233,3 +233,13 @@ Testing is a part of the software development lifecycle.
 He is part of the backend development team.
 
 他是後端開發團隊的一員。
+
+### effective 和 efficient 的差異
+
+### effective
+
+有效的，達成預期或期望的結果，著重於強調目標是否達成。
+
+#### efficient
+
+有效率的，以最少的資源（時間、金錢、人力）獲得最大的產出，著重於強調資源與產出的比率。
