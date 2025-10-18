@@ -113,7 +113,37 @@ What do you think of this idea?
 你對這個主意有什麼看法？
 
 > 「How do you think...?」它的意思是「你是如何思考的？」，偏離了「你覺得如何？」的本意，在日常對話中，這樣問法既不自然也文法不通，外國人可能會覺得很奇怪。
-> 應該要用「What do you think...?」或「Do you think...?」來表達。 
+> 應該要用「What do you think...?」或「Do you think...?」來表達。
+
+### Could / Would / Should 等 + have pp 的用法
+
+Should / Could / Would / Might (過去式情狀助動詞) + have Vpp (完成式)：表示句子中所說的動作在過去並未發生或並未被執行。
+
+Shouldn’t / Wouldn’t / Couldn’t/ Might not (否定的過去式情狀助動詞) ，+ have Vpp (完成式)：表示句子中所說沒有做的動作其實在過去已經發生或已被執行了。
+
+這是一種假設語氣的用法，用和過去事實相反的描述來表達後悔、失望、批評、指責、反思或解釋。
+
+**肯定的過去式情狀助動詞 + have + Vpp**
+
+> 表示「過去本可以或應該做某事，但實際上沒做」
+
+| 助動詞             | 例句                                                               | 中文意思             |
+| --------------- | ---------------------------------------------------------------- | ---------------- |
+| **should have** | I **should have studied** harder for the exam.                   | 我本應該更努力讀書（但沒做到）。 |
+| **could have**  | She **could have won** the game if she hadn’t made that mistake. | 如果她沒有犯錯，她本可以贏比賽。 |
+| **would have**  | I **would have helped** you if I had known you were in trouble.  | 如果我知道你有麻煩，我本會幫你。 |
+| **might have**  | They **might have missed** the bus because they left late.       | 他們可能錯過了公車（但不確定）。 |
+
+**否定的過去式情狀助動詞 + have + Vpp**
+
+> 表示「過去已發生的事，但本來不應該發生或不大可能發生」
+
+| 助動詞                | 例句                                                | 中文意思                      |
+| ------------------ | ------------------------------------------------- | ------------------------- |
+| **shouldn’t have** | You **shouldn’t have eaten** so much cake.        | 你本不應該吃那麼多蛋糕（但你吃了）。        |
+| **wouldn’t have**  | I **wouldn’t have guessed** she was so talented.  | 我根本沒想到她這麼有才華（但事實如此）。      |
+| **couldn’t have**  | He **couldn’t have finished** the project alone.  | 他不可能自己完成這個專案（但事實是有其他人幫忙）。 |
+| **might not have** | She **might not have realized** the consequences. | 她可能沒意識到後果（但結果已經發生）。       |
 
 ## Word comparisons / 單字比較
 
