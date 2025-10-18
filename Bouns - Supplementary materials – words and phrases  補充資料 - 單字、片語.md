@@ -614,6 +614,16 @@ While scrolling through a long list of items, the app dynamically loads more dat
 
 在 滾動瀏覽長清單 的過程中，應用程式會透過無限滾動動態載入更多資料。
 
+### have trouble with + Noun
+
+在某方面有麻煩。
+
+#### 範例：
+
+I've been having trouble with my computer lately. 
+
+我最近的電腦有點問題。
+
 ## Words / 單字
 
 ### reassess (v)
