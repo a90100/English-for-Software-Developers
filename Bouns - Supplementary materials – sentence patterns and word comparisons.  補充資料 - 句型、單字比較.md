@@ -273,3 +273,19 @@ He is part of the backend development team.
 #### efficient
 
 有效率的，以最少的資源（時間、金錢、人力）獲得最大的產出，著重於強調資源與產出的比率。
+
+### think of 和 think about 的差别
+
+think of 通常指瞬間的、臨時的想起或想到某事。
+
+think about 則表示更深入、持續的考慮或思考。 
+
+#### 範例：
+
+Can you think of a solution quickly?
+
+你能想出一個快速的解決方案嗎？
+
+You have to think about what the users are doing.
+
+你必須考慮用戶在做什麼。
