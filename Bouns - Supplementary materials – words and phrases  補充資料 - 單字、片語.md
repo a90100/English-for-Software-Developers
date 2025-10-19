@@ -771,3 +771,14 @@ Manually testing every feature before each release is very time-consuming, so we
 Using a full-fledged database system for storing just a few configuration values would be overkill; a simple JSON file would be sufficient.
 
 為了存幾個設定值而使用完整的資料庫系統是小題大作；一個簡單的 JSON 檔就足夠了。
+
+### less common
+
+比較少見的、不太常見的。
+
+#### 範例：
+
+This bug only occurs in less common environments, such as older versions of Android.
+
+這個 bug 只會在一些較不常見的環境中發生，例如舊版 Android。
+ 
