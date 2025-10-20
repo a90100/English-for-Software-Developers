@@ -63,6 +63,7 @@ The reason I keep these articles in GitHub is that we can track the commits and 
 
 * Expressions for indicating increase / 表示增加的用語
 * Expressions for indicating decrease / 表示減少的用語
+* Terms to express "remaining constant" / 表示持平的用語
 
 ### Day 9 - Web chart interaction terminology / 網頁圖表操作相關用語
 
