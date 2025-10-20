@@ -194,3 +194,24 @@ There has been a decline in active users since the competitor launched a similar
 
 自從競爭對手推出類似應用後，活躍用戶數下滑了。
 
+## Terms to express "remaining constant" / 表示持平的用語
+
+### remain constant
+
+保持不變。
+
+#### 範例：
+
+The API response time must remain constant at under 200ms, even under heavy load.
+
+即使在重負載下，API 的響應時間也必須保持在 200 毫秒以下不變。
+
+### stay flat
+
+持平/不變動。
+
+#### 範例：
+
+User engagement metrics are expected to stay flat during the initial quiet launch phase.
+
+在初期的靜默發布階段，預計使用者參與度指標將保持持平。
