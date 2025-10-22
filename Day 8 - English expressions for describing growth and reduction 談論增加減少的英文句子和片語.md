@@ -215,3 +215,13 @@ The API response time must remain constant at under 200ms, even under heavy load
 User engagement metrics are expected to stay flat during the initial quiet launch phase.
 
 在初期的靜默發布階段，預計使用者參與度指標將保持持平。
+
+### hold steady at + 數字
+
+表示維持特定數字。
+
+#### 範例：
+
+After optimizing the database queries, the latency of the main API is expected to hold steady at 50 milliseconds.
+
+在優化資料庫查詢之後，主要 API 的延遲預計將穩定保持在 50 毫秒。
