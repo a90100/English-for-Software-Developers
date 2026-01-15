@@ -145,6 +145,18 @@ Shouldn’t / Wouldn’t / Couldn’t/ Might not (否定的過去式情狀助動
 | **couldn’t have**  | He **couldn’t have finished** the project alone.  | 他不可能自己完成這個專案（但事實是有其他人幫忙）。 |
 | **might not have** | She **might not have realized** the consequences. | 她可能沒意識到後果（但結果已經發生）。       |
 
+### Should + have + V-ed (過去分詞)
+
+表達對過去未採取的行動的遺憾、批評或責任感，意味著當時採取的行動是明智之舉或正確之舉，但卻未能付諸實施。
+
+> 因為助動詞 should 後面只能接「原形動詞」。當我們要用 should 來評論「過去」的事情時，我們不能把 should 變成過去式，所以必須在後面加上 have + V-ed 來表示這件事發生在「過去」。
+
+##### 範例：
+
+You shouldn't have done that.
+
+你「當時（過去）」不該那樣做的。（但你已經做了，所以我現在感到遺憾或在責備你。）
+
 ## Word comparisons / 單字比較
 
 ### feel like
