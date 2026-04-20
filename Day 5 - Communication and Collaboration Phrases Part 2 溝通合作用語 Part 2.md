@@ -54,6 +54,14 @@ This article introduces useful English phrases for various communication and col
 
 我不太確定那件事。 / 我不是很肯定。
 
+### That’s not how I see it.
+
+我不是那樣看的、我不這麼認為。這是一種委婉、客氣地表達不同意或持不同觀點的說法。
+
+### That’s not the case for me.
+
+我的情況並非如此、這對我不適用。用來禮貌地表達不同意見、指出個人經驗與對方所述不同。
+
 ### I think...
 
 > 最直接的表達方式。
